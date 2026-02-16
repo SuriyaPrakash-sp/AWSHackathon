@@ -101,18 +101,11 @@ Wearable Sensors → Edge AI Processing → Neuroadaptive Engine → Haptic Feed
 
 ## Team
 
-*[Team member information to be added]*
+Tharvin M
+Suriya Prakash SP
+Saran Vishakan RG
+Sanjay R
 
 ## Vision
 
 AURA-EDU represents a step toward intelligent assistive technology that integrates seamlessly into everyday learning environments — making rehabilitation continuous, accessible, and stigma-free.
-
-## Getting Started
-
-*[Setup and installation instructions to be added during implementation]*
-
----
-
-**Built for [Hackathon Name] 2024**
-
-*Advancing accessible rehabilitation technology through AI innovation*
